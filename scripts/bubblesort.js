@@ -1,7 +1,7 @@
 /*
     *****************
-    DONE BY:- P.Sahithi Reddy
-              B.Lavanya Durga
+    DONE BY:- P.Sahithi Reddy,sahithihs3@gmail.com
+              B.Lavanya Durga,lavanya200276@gmail.com
               J. Anudeepa 
     *****************
 */
@@ -37,9 +37,3 @@ function Bubble()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    E-MAIL:-    tummala.kethan@gmail.com
-    *****************
-*/
